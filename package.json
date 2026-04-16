@@ -12,5 +12,8 @@
   "dependencies": {
     "@matrix-org/matrix-sdk-crypto-nodejs": "^0.4.0",
     "matrix-bot-sdk": "^0.8.0"
+  },
+  "devDependencies": {
+    "dotenv": "^17.4.2"
   }
 }
